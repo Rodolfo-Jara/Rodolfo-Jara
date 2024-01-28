@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rodolfo Jara</h1>
-<h3 align="center">Apasionado por el desarrollo de software y recién graduado en Informática y Computación. Con destacada experiencia en el diseño y desarrollo de proyectos académicos utilizando Java Spring Boot y arquitectura API de microservicios. Mi enfoque está en resolver problemas creativamente y brindar soluciones eficientes. Busco oportunidades para aplicar y ampliar mis habilidades, contribuyendo al éxito de proyectos innovadores de desarrollo de software.</h3>
+<h3 align="center">Apasionado por el desarrollo de software y recién graduado en Informática y Computación. Con destacada experiencia en el diseño y desarrollo de proyectos académicos utilizando Java Spring Boot y arquitectura de microservicios. Mi enfoque está en resolver problemas creativamente y brindar soluciones eficientes. Busco oportunidades para aplicar y ampliar mis habilidades, contribuyendo al éxito de proyectos innovadores de desarrollo de software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfo-jara&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfo-jara" /> </p>
 
