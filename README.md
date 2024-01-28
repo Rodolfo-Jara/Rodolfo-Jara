@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rodolfo-jara/rodolfo-jara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">Un apasionado desarrollador Junior back-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfo-jara&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfo-jara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolfo-jara" alt="rodolfo-jara" /></a> </p>
 
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
