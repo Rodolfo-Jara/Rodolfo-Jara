@@ -58,7 +58,7 @@ Here are some ideas to get you started:
         </tr>
         <tr valign="top">
            <td width="80px" align="center">
-            <span><strong>Sql Server</strong></span><br>
+            <span><strong>Sql-Server</strong></span><br>
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
             </td>
             <td width="150px" align="center">
@@ -70,8 +70,8 @@ Here are some ideas to get you started:
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
              <td width="80px" align="center">
-            <span><strong>Firebase</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+            <span><strong>MYSQL</strong></span><br>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
             </td>
              <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
