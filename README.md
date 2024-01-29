@@ -51,7 +51,10 @@ Here are some ideas to get you started:
             <span><strong>CSS</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-           
+           <td width="80px" align="center">
+            <span><strong>Javascipt</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td> 
         </tr>
         <tr valign="top">
            <td width="80px" align="center">
