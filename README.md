@@ -27,36 +27,63 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=rodolfo-jara&theme=tokyonight_duo&hide_border=true"
 </p>
 
-graph TD;
-    Back-End-->Java;
-    Back-End-->NodeJs;
-    NodeJs-->Socket.io;
-    NodeJs-->Meteor.Js.
-    Back-End-->PHP;
-    PHP-->Laravel;
-    PHP-->Zend;
-    PHP-->CakePHP;
-    Java-->JavaSE;
-    Java-->JavaEE;
-    JavaEE-->PureApplet;
-    JavaEE-->JavaServlet;
-    JavaEE-->EBJ;
-    Java-->Spring;
-    Java-->SQL;
-    Laravel-->SQL;
-    Spring-->SprBootMVC;
-    Spring-->SprBootAPI-REST;
-    Spring-->SprDATA-JPA;
-    SQL-->Hibernate;
-    SQL-->Spr-JDBC;
-    Spring-->Spr-Security;
-    Spring-->JSP;
-    Spring-->JPA;
-    Java-->Forms;
-    Forms-->iReport
-    Forms-->JFrame;
-
-
+<h3 align="left">Conocimientos</h3>
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Angular</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Aws</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            </td>
+           <td width="120px" align="center">
+            <span><strong>Spring Boot</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Typescript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            </td>
+           <td width="80px" align="center">
+            <span><strong>Javascipt</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td> 
+        </tr>
+        <tr valign="top">
+           <td width="80px" align="center">
+            <span><strong>PostgreSQL</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>React Js - Native</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>Firebase</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
