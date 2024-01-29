@@ -44,8 +44,8 @@ Here are some ideas to get you started:
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
             </td>
             <td width="80px" align="center">
-            <span><strong>Aws</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            <span><strong>AZURE</strong></span><br>
+            <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
             </td>
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
