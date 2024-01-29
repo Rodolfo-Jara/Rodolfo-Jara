@@ -80,20 +80,35 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-1. El primer titulo, solo copia el codigo
-
 ```mermaid
 graph TD;
-    Front-End-->HTML5;
-    Front-End-->CSS3;
-    Front-End-->JavaScript;
-    Front-End-->Angular;
-    Front-End-->React;
-    Front-End-->XML;
-    Front-End-->JSON;
-    Front-End-->Vue;
-    Front-End-->TypeScript;
-    Front-End-->JQuery;
+    Back-End-->Java;
+    Back-End-->NodeJs;
+    NodeJs-->Socket.io;
+    NodeJs-->Meteor.Js.
+    Back-End-->PHP;
+    PHP-->Laravel;
+    PHP-->Zend;
+    PHP-->CakePHP;
+    Java-->JavaSE;
+    Java-->JavaEE;
+    JavaEE-->PureApplet;
+    JavaEE-->JavaServlet;
+    JavaEE-->EBJ;
+    Java-->Spring;
+    Java-->SQL;
+    Laravel-->SQL;
+    Spring-->SprBootMVC;
+    Spring-->SprBootAPI-REST;
+    Spring-->SprDATA-JPA;
+    SQL-->Hibernate;
+    SQL-->Spr-JDBC;
+    Spring-->Spr-Security;
+    Spring-->JSP;
+    Spring-->JPA;
+    Java-->Forms;
+    Forms-->iReport
+    Forms-->JFrame;
 
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
