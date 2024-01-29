@@ -81,8 +81,7 @@ Here are some ideas to get you started:
     </tbody>
 </table>
 1. El primer titulo, solo copia el codigo
-```
-```
+
 ```mermaid
 graph TD;
     Front-End-->HTML5;
@@ -95,9 +94,7 @@ graph TD;
     Front-End-->Vue;
     Front-End-->TypeScript;
     Front-End-->JQuery;
-   ```
 
-   
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
 - 👨‍💻 My resume is available at [https://rodolfo-jara.github.io/_/Pagina/index.html](https://rodolfo-jara.github.io/_/Pagina/index.html)
