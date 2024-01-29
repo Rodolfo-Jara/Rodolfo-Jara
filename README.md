@@ -80,7 +80,6 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-```
 ```mermaid
 graph TD;
     Front-End-->HTML5;
@@ -94,8 +93,6 @@ graph TD;
     Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
-```mermaid
-
    
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
