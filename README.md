@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!:Soy+Rodolfo+Jara)
 <h3 align="center">Apasionado por el desarrollo de software y recién graduado en Informática y Computación. Con destacada experiencia en el diseño y desarrollo de proyectos académicos utilizando Java Spring Boot y arquitectura de microservicios. Mi enfoque está en resolver problemas creativamente y brindar soluciones eficientes. Busco oportunidades para aplicar y ampliar mis habilidades, contribuyendo al éxito de proyectos innovadores de desarrollo de software.</h3>
-
+<h1 align="center">Github Metrics </h1><p align="center">
+<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodolfo-jara&theme=github_dark" />
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfo-jara&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfo-jara" /> </p>
 
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
