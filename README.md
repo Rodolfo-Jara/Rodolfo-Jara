@@ -80,8 +80,6 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-```
-```mermaid
 graph TD;
     Back-End-->Java;
     Back-End-->NodeJs;
@@ -110,37 +108,6 @@ graph TD;
     Java-->Forms;
     Forms-->iReport
     Forms-->JFrame;
-   ```
-   ```mermaid
-graph TD;
-    Back-End-->Java;
-    Back-End-->NodeJs;
-    NodeJs-->Socket.io;
-    NodeJs-->Meteor.Js.
-    Back-End-->PHP;
-    PHP-->Laravel;
-    PHP-->Zend;
-    PHP-->CakePHP;
-    Java-->JavaSE;
-    Java-->JavaEE;
-    JavaEE-->PureApplet;
-    JavaEE-->JavaServlet;
-    JavaEE-->EBJ;
-    Java-->Spring;
-    Java-->SQL;
-    Laravel-->SQL;
-    Spring-->SprBootMVC;
-    Spring-->SprBootAPI-REST;
-    Spring-->SprDATA-JPA;
-    SQL-->Hibernate;
-    SQL-->Spr-JDBC;
-    Spring-->Spr-Security;
-    Spring-->JSP;
-    Spring-->JPA;
-    Java-->Forms;
-    Forms-->iReport
-    Forms-->JFrame;
-   ```
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
 - 👨‍💻 My resume is available at [https://rodolfo-jara.github.io/_/Pagina/index.html](https://rodolfo-jara.github.io/_/Pagina/index.html)
