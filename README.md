@@ -80,6 +80,8 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
+1. El primer titulo, solo copia el codigo
+```
 ```mermaid
 graph TD;
     Front-End-->HTML5;
@@ -93,7 +95,7 @@ graph TD;
     Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
-   ```
+
 ```mermaid
 graph TD;
     Front-End-->HTML5;
