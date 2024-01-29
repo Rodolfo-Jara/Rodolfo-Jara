@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <table width="320px">
     <tbody>
         <tr valign="top">
+                     <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
             <td width="80px" align="center">
             <span><strong>Angular</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Aws</strong></span><br>
@@ -58,8 +58,8 @@ Here are some ideas to get you started:
         </tr>
         <tr valign="top">
            <td width="80px" align="center">
-            <span><strong>PostgreSQL</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            <span><strong>Sql Server</strong></span><br>
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
             </td>
             <td width="150px" align="center">
             <span><strong>React Js - Native</strong></span><br>
