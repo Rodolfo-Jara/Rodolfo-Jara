@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <table width="320px">
     <tbody>
         <tr valign="top">
-            <td width="80px" align="center">
+            <td width="100px" align="center">
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
             </td> 
         </tr>
         <tr valign="top">
-           <td width="80px" align="center">
+           <td width="100px" align="center">
             <span><strong>MYSQL</strong></span><br>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
             </td>
