@@ -27,10 +27,6 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=rodolfo-jara&theme=tokyonight_duo&hide_border=true"
 </p>
 
-
-
-
-```mermaid
 graph TD;
     Back-End-->Java;
     Back-End-->NodeJs;
@@ -59,7 +55,6 @@ graph TD;
     Java-->Forms;
     Forms-->iReport
     Forms-->JFrame;
-
 
 
 
