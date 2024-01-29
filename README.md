@@ -35,6 +35,10 @@ Here are some ideas to get you started:
             <span><strong>Java</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
             </td>
+         <td width="120px" align="center">
+            <span><strong>Spring Boot</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+            </td>
             <td width="80px" align="center">
             <span><strong>Angular</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
@@ -42,10 +46,6 @@ Here are some ideas to get you started:
             <td width="80px" align="center">
             <span><strong>Aws</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-            </td>
-           <td width="120px" align="center">
-            <span><strong>Spring Boot</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>CSS</strong></span><br>
