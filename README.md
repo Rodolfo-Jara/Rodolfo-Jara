@@ -85,7 +85,6 @@ Here are some ideas to get you started:
 ```mermaid
 graph TD;
     Front-End-->HTML5;
-    
     Front-End-->JSON;
     Front-End-->Vue;
     Front-End-->TypeScript;
