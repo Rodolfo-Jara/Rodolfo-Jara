@@ -26,6 +26,23 @@ Here are some ideas to get you started:
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=rodolfo-jara&theme=tokyonight_duo&hide_border=true"
 </p>
+ 
+```mermaid
+graph TD;
+    BACK-END-->Java;
+    Java-->SQL;
+    Java-->Spring;
+    Spring-->MVC;
+    Spring-->SprBootAPI-REST;
+    Spring-->SprDATA-JPA;
+    SQL-->Hibernate;
+    SQL-->Spr-JDBC;
+    Spring-->Spr-Security;
+    Spring-->JPA;
+    Java-->Forms;
+    Forms-->iReport
+    Forms-->JFrame;
+```
 
 <h3 align="left">Conocimientos</h3>
 <table width="320px">
@@ -39,76 +56,45 @@ Here are some ideas to get you started:
             <span><strong>Spring Boot</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Angular</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+         <td width="100px" align="center">
+            <span><strong>MYSQL</strong></span><br>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+            </td>
+         <td width="80px" align="center">
+            <span><strong>Sql-Server</strong></span><br>
+            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+            </td>
+         <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>AZURE</strong></span><br>
             <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
             </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-           <td width="80px" align="center">
-            <span><strong>.NET</strong></span><br>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-            </td> 
         </tr>
         <tr valign="top">
-           <td width="100px" align="center">
-            <span><strong>MYSQL</strong></span><br>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+         <td width="80px" align="center">
+            <span><strong>Angular</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
             </td>
-            <td width="80px" align="center">
-            <span><strong>Git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="150px" align="center">
+                              <td width="150px" align="center">
             <span><strong>React Js</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>Sql-Server</strong></span><br>
-            <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-            </td>
-             <td width="80px" align="center">
+                      <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+                     <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
         </tr>
     </tbody>
 </table>
-```mermaid
-graph TD;
-    Back-End-->Java;
-    Back-End-->NodeJs;
-    NodeJs-->Socket.io;
-    NodeJs-->Meteor.Js.
-    Back-End-->PHP;
-    PHP-->Laravel;
-    PHP-->Zend;
-    PHP-->CakePHP;
-    Java-->JavaSE;
-    Java-->JavaEE;
-    JavaEE-->PureApplet;
-    JavaEE-->JavaServlet;
-    JavaEE-->EBJ;
-    Java-->Spring;
-    Java-->SQL;
-    Laravel-->SQL;
-    Spring-->SprBootMVC;
-    Spring-->SprBootAPI-REST;
-    Spring-->SprDATA-JPA;
-    SQL-->Hibernate;
-    SQL-->Spr-JDBC;
-    Spring-->Spr-Security;
-    Spring-->JSP;
-    Spring-->JPA;
-    Java-->Forms;
-    Forms-->iReport
-    Forms-->JFrame;
+
+
 
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
