@@ -94,7 +94,6 @@ graph TD;
     Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
-
 ```mermaid
 
    
