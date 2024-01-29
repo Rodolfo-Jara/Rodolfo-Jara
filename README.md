@@ -96,6 +96,8 @@ graph TD;
     Front-End-->TypeScript;
     Front-End-->JQuery;
    ```
+
+   
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
 - 👨‍💻 My resume is available at [https://rodolfo-jara.github.io/_/Pagina/index.html](https://rodolfo-jara.github.io/_/Pagina/index.html)
