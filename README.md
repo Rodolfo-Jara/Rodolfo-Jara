@@ -27,6 +27,12 @@ Here are some ideas to get you started:
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-jara&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
 </div> 
+
+<p align="center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com?user=rodolfo-jara&theme=tokyonight_duo&hide_border=true"
+</p>
+
+
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
 - 👨‍💻 My resume is available at [https://rodolfo-jara.github.io/_/Pagina/index.html](https://rodolfo-jara.github.io/_/Pagina/index.html)
