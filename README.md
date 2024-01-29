@@ -30,9 +30,35 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodolfo-jara&theme=github_dark" />
-</p>
+```mermaid
+graph TD;
+    Back-End-->Java;
+    Back-End-->NodeJs;
+    NodeJs-->Socket.io;
+    NodeJs-->Meteor.Js.
+    Back-End-->PHP;
+    PHP-->Laravel;
+    PHP-->Zend;
+    PHP-->CakePHP;
+    Java-->JavaSE;
+    Java-->JavaEE;
+    JavaEE-->PureApplet;
+    JavaEE-->JavaServlet;
+    JavaEE-->EBJ;
+    Java-->Spring;
+    Java-->SQL;
+    Laravel-->SQL;
+    Spring-->SprBootMVC;
+    Spring-->SprBootAPI-REST;
+    Spring-->SprDATA-JPA;
+    SQL-->Hibernate;
+    SQL-->Spr-JDBC;
+    Spring-->Spr-Security;
+    Spring-->JSP;
+    Spring-->JPA;
+    Java-->Forms;
+    Forms-->iReport
+    Forms-->JFrame;
 
 
 
