@@ -48,13 +48,10 @@ Here are some ideas to get you started:
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Typescript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
-           <td width="80px" align="center">
-            <span><strong>Javascipt</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-            </td> 
+           
         </tr>
         <tr valign="top">
            <td width="80px" align="center">
@@ -77,10 +74,7 @@ Here are some ideas to get you started:
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
+            
         </tr>
     </tbody>
 </table>
