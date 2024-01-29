@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!:Soy+Rodolfo+Jara)
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+ 
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=40&center=true&vCenter=true&width=1000&lines=Hola!+Soy+Rodolfo+Jara)
 <h3 align="center">Apasionado por el desarrollo de software y recién graduado en Informática y Computación. Con destacada experiencia en el diseño y desarrollo de proyectos académicos utilizando Java Spring Boot y arquitectura de microservicios. Mi enfoque está en resolver problemas creativamente y brindar soluciones eficientes. Busco oportunidades para aplicar y ampliar mis habilidades, contribuyendo al éxito de proyectos innovadores de desarrollo de software.</h3>
 
 <div align="center">  
@@ -101,3 +103,5 @@ graph TD;
 - 👨‍💻 My resume is available at [https://rodolfo-jara.github.io/_/Pagina/index.html](https://rodolfo-jara.github.io/_/Pagina/index.html)
 
 - 📫 How to reach me **rjaralopez19@gmail.com**
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
