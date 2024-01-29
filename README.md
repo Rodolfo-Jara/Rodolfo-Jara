@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 </table>
 1. El primer titulo, solo copia el codigo
 ```
+```
 ```mermaid
 graph TD;
     Front-End-->HTML5;
