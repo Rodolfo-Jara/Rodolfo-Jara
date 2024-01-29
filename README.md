@@ -80,6 +80,7 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
+```
 ```mermaid
 graph TD;
     Front-End-->HTML5;
