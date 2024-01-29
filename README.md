@@ -80,6 +80,9 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
+2. Back END 
+```
+```mermaid
 graph TD;
     Back-End-->Java;
     Back-End-->NodeJs;
@@ -108,6 +111,9 @@ graph TD;
     Java-->Forms;
     Forms-->iReport
     Forms-->JFrame;
+   ```
+   ```mermaid
+   
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
 - 👨‍💻 My resume is available at [https://rodolfo-jara.github.io/_/Pagina/index.html](https://rodolfo-jara.github.io/_/Pagina/index.html)
