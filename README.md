@@ -77,7 +77,6 @@ Here are some ideas to get you started:
             <span><strong>HTML</strong></span><br>
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
-            
         </tr>
     </tbody>
 </table>
