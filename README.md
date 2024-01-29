@@ -61,13 +61,13 @@ Here are some ideas to get you started:
             <span><strong>MYSQL</strong></span><br>
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
             </td>
-            <td width="150px" align="center">
-            <span><strong>React Js - Native</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
             <td width="80px" align="center">
             <span><strong>Git</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>React Js - Native</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>Sql-Server</strong></span><br>
