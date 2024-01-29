@@ -80,14 +80,11 @@ Here are some ideas to get you started:
         </tr>
     </tbody>
 </table>
-2. Back END 
-```
-```mermaid
 graph TD;
     Back-End-->Java;
     Back-End-->NodeJs;
     NodeJs-->Socket.io;
-    NodeJs-->Meteor.Js.
+    NodeJs-->Meteor.Js;
     Back-End-->PHP;
     PHP-->Laravel;
     PHP-->Zend;
@@ -109,10 +106,9 @@ graph TD;
     Spring-->JSP;
     Spring-->JPA;
     Java-->Forms;
-    Forms-->iReport
+    Forms-->iReport;
     Forms-->JFrame;
-   ```
-   ```mermaid
+
    
 - 🔭 Project that I have developed working with Java [Sistema de Calificaciones](https://github.com/Rodolfo-Jara/ProyectoSistemaDeCalificaciones)
 
